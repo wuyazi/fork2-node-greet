@@ -1,4 +1,4 @@
-var greet = require("../index.js");
+var greet = require("../lib/index.js");
 var input_string = "haha --drunk";
 
 describe('greet', function(){
